@@ -5,7 +5,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
 <p align="center">
-🐦 <a href="https://instagram.com/capstv.yt">Instagram</a>
+ <a href="https://instagram.com/capstv.yt">Instagram</a>
 | 📺 <a href="https://www.youtube.com/capstv">YouTube</a>
 |  <a href="https://t.me/caps_tv">Telegram Channel</a>
 <br>
