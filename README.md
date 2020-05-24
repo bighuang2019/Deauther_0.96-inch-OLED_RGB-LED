@@ -12,7 +12,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 
 # Credits
 
-This code is Forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
+This code is forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
 
 Please add this board to your Arduino IDE's "Additional Board Manager URL" and install it https://raw.githubusercontent.com/wiki/tobozo/Arduino/package_deauther_index.json
 
