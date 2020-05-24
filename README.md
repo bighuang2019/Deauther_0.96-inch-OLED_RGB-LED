@@ -10,7 +10,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 |  <a href="https://t.me/caps_tv">Telegram Channel</a>
 <br>
 
-#Credits
+# Credits
 
 This code is Forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
 
