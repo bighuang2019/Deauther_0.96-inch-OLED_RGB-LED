@@ -1,6 +1,6 @@
 # ESP8266 Deauther 2.0
 
-Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for making this possible.
+Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for making this project possible.
 
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
@@ -10,10 +10,13 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 |  <a href="https://t.me/caps_tv">Telegram Channel</a>
 <br>
 
-## What is New
+#Credits
+This code is Forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
 
-This code is Forked from @spacehuhn and modified for 0.96 OLED Support and RGB LED Integration.
-Binary Files are also available in this link https://github.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/blob/master/Bin%20Files/esp8266_deauther.ino.nodemcu.bin
+
+<a href="https://github.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/blob/master/Bin%20Files/esp8266_deauther.ino.nodemcu.bin">Binary Files are also available here</a>
+
+## What is New
 
 Version 2.0:
 - Completly rewritten code base for better performance and later enhancements
