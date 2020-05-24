@@ -14,6 +14,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 
 This code is Forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
 
+Please add this board to your Arduino IDE's "Additional Board Manager URL" and install it https://raw.githubusercontent.com/wiki/tobozo/Arduino/package_deauther_index.json
 
 <a href="https://github.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/blob/master/Bin%20Files/esp8266_deauther.ino.nodemcu.bin">Binary Files are also available here</a>
 
