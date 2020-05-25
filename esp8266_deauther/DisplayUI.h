@@ -30,8 +30,8 @@ extern String leftRight(String a, String b, int len);
 extern String replaceUtf8(String str, String r);
 
 const char D_INTRO_0[] PROGMEM = "ESP8266 Deauther";
-const char D_INTRO_1[] PROGMEM = "Mod";
-const char D_INTRO_2[] PROGMEM = "by @pranaovs";
+const char D_INTRO_1[] PROGMEM = "OLED Mod";
+const char D_INTRO_2[] PROGMEM = "by CAPS TV";
 const char D_INTRO_3[] PROGMEM = "";
 
 // fallback for the buttons
