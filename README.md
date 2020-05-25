@@ -6,8 +6,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 
 
 
-<p align="center">
- 
+<p align="center"> 
  📺 <a href="https://www.youtube.com/capstv">YouTube</a>
 | <a href="https://instagram.com/capstv.yt">Instagram</a>
 | <a href="https://t.me/caps_tv">Telegram Channel</a>
