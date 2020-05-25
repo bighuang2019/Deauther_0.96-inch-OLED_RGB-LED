@@ -4,16 +4,24 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
+
+
 <p align="center">
- <a href="https://instagram.com/capstv.yt">Instagram</a>
-| 📺 <a href="https://www.youtube.com/capstv">YouTube</a>
-|  <a href="https://t.me/caps_tv">Telegram Channel</a>
+ 
+ 📺 <a href="https://www.youtube.com/capstv">YouTube</a>
+| <a href="https://instagram.com/capstv.yt">Instagram</a>
+| <a href="https://t.me/caps_tv">Telegram Channel</a>
+| <a href="https://github.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/blob/master/Bin%20Files/esp8266_deauther.ino.nodemcu.bin">.bin Files</a>
 <br>
 
 # Credits
 
 This code is forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96 OLED Support and RGB LED Integration.
 
+<a href="https://github.com/spacehuhn"><p align="center"><img alt="PICTURE logo" src="https://avatars0.githubusercontent.com/u/3826044?s=400&u=3d23938d052e229bd41931a9f2647a767a24d59e&v=4" width=200></p></a>
+
+
+# Important Steps
 Please add this board to your Arduino IDE's "Additional Board Manager URL" and install it https://raw.githubusercontent.com/wiki/tobozo/Arduino/package_deauther_index.json
 
 <a href="https://github.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/blob/master/Bin%20Files/esp8266_deauther.ino.nodemcu.bin">Binary Files are also available here</a>
