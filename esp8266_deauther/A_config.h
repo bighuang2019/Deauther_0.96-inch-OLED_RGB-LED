@@ -14,9 +14,9 @@
 
 // === Settings for Digital LED and RGB LED === //
 #define LED_ANODE false   // common vcc (+)
-#define LED_PIN_R 12  
-#define LED_PIN_G 13  
-#define LED_PIN_B 15 
+#define LED_PIN_R 12  //--->D6
+#define LED_PIN_G 13  //--->D7    //Refer Pinout
+#define LED_PIN_B 15  //--->D8
 
 // === Settings for RGB LED and Neopixel LED === //
 #define LED_MODE_BRIGHTNESS 10 // brightness of LED modes 
