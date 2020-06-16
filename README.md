@@ -14,7 +14,7 @@ Special Thanks to <a href="https://github.com/spacehuhn">@spacehuhn</a> for maki
 
 # Credits
 
-This code is forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96" OLED Support and RGB LED Integration.
+This code is forked from <a href="https://github.com/spacehuhn">@spacehuhn</a> and modified for 0.96" OLED Display Support and RGB LED Integration.
 
 <a href="https://github.com/spacehuhn"><p align="center"><img alt="@Spacehuhn" src="https://avatars0.githubusercontent.com/u/3826044?s=400&u=3d23938d052e229bd41931a9f2647a767a24d59e&v=4" width=200></p></a>
 
